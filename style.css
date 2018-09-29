@@ -1,0 +1,26 @@
+nav{
+    background-color: #f7babc;
+}
+
+.container{
+    width: 95%;
+}
+
+.button{
+    padding-top:10px;
+    margin:auto;
+    background: transparent;
+    border: none;
+    color:transparent;
+}
+
+#card{
+    padding: 100px;
+    margin: auto;
+    text-align: center;
+}
+
+#letter{
+    margin: auto;
+    padding-top: 10px;
+}
