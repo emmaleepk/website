@@ -1,5 +1,14 @@
+body{
+    background-color:#FFFFFF;
+}
 nav{
-    background-color: #f7babc;
+    /* background-color: #f7babc; */
+    /* #BAACBD */
+    background-color: #F45B69;
+}
+
+a{
+    color:#FFFFFF;
 }
 
 .container{
@@ -18,6 +27,11 @@ nav{
     padding: 100px;
     margin: auto;
     text-align: center;
+    max-width: 1000px;
+}
+
+#here{
+    background-color: #3C3C3C;
 }
 
 #letter{
